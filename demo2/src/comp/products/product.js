@@ -1,0 +1,27 @@
+export const prs=
+[
+  {
+    id:1,
+    title:"t-shirt"
+  },
+  {
+    id:2,
+    title:"short"
+  },
+  {
+    id:3,
+    title:"shoes"
+  },
+  {
+    id:4,
+    title:"cap"
+  },
+  {
+    id:5,
+    title:"watch"
+  },
+  {
+    id:6,
+    title:"bag"
+  },
+]
